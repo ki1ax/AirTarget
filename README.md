@@ -9,7 +9,7 @@
 		        | helicopter ->
 		| validation->
 	  		| airplane ->
-      			| bird ->
-      			| drone ->
-      			| helicopter ->
+			| bird ->
+			| drone ->
+			| helicopter ->
 
