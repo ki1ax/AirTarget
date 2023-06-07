@@ -1,6 +1,15 @@
 # AirTarget
+**Dataset:**
 
-dataset: 
-  data->
-    train->
-    veerification->
+	| data->
+		| train ->
+	  	| airplane ->
+			| bird ->
+      | drone ->
+      | helicopter ->
+		| validation->
+	  	| airplane ->
+      | bird ->
+      | drone ->
+      | helicopter ->
+
