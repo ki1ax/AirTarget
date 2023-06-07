@@ -3,13 +3,13 @@
 
 	| data->
 		| train ->
-	  	| airplane ->
+			| airplane ->
 			| bird ->
-      | drone ->
-      | helicopter ->
+		        | drone ->
+		        | helicopter ->
 		| validation->
-	  	| airplane ->
-      | bird ->
-      | drone ->
-      | helicopter ->
+	  		| airplane ->
+      			| bird ->
+      			| drone ->
+      			| helicopter ->
 
